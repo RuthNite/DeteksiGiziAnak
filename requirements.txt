@@ -1,0 +1,5 @@
+streamlit
+lightgbm==3.3.5
+pandas
+numpy
+scikit-learn==1.3.0
